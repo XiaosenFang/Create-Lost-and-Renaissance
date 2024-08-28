@@ -1,0 +1,19 @@
+{
+	id: "1D8BDA46FA864553"
+	loot_size: 1
+	order_index: 2
+	rewards: [
+		{ item: "sophisticatedbackpacks:backpack", weight: 2.0f }
+		{ item: "sophisticatedbackpacks:copper_backpack", weight: 4.0f }
+		{ item: "sophisticatedbackpacks:iron_backpack", weight: 5.0f }
+		{ item: "sophisticatedbackpacks:gold_backpack", weight: 3.0f }
+		{
+			item: {
+				Count: 1
+				id: "thermal:satchel"
+				tag: { }
+			}
+		}
+	]
+	title: "背包"
+}

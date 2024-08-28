@@ -1,0 +1,10 @@
+{
+	id: "52161DFE5BFFEF7B"
+	loot_size: 1
+	order_index: 1
+	rewards: [
+		{ item: "minecraft:egg" }
+		{ item: "minecraft:turtle_egg" }
+	]
+	title: "彩蛋"
+}

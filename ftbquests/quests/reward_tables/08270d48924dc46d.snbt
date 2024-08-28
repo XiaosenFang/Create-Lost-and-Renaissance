@@ -1,0 +1,32 @@
+{
+	id: "08270D48924DC46D"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{ item: "create:wrench" }
+		{ item: "ae2:nether_quartz_wrench" }
+		{ item: "ae2:certus_quartz_wrench" }
+		{
+			item: {
+				Count: 1
+				id: "mekanism:configurator"
+				tag: {
+					mekData: {
+						EnergyContainers: [{
+							Container: 0b
+							stored: "60000"
+						}]
+					}
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "thermal:wrench"
+				tag: { }
+			}
+		}
+	]
+	title: "扳手"
+}
