@@ -1,0 +1,36 @@
+{
+    "cp.main.welcome":"Welcome",
+    "cp.main.road":"Development Route",
+    "cp.main.shop":"Shop",
+    "cp.main.cp1":"Chapter 1",
+    "cp.main.cp1z":"Chapter 1 Branch",
+    "cp.main.cp2":"Chapter 2",
+    "cp.main.cp2z":"Chapter 2 Branch",
+    "cp.main.cp3":"Chapter 3",
+    "cp.main.cp3z":"Chapter 3 Branch",
+    "cp.main.cp4r1s1":"Chapter 4 Road 1 Part 1",
+    "cp.main.cp4r1s2":"Chapter 4 Road 1 Part 2",
+    "cp.main.cp4r2s1":"Chapter 4 Road 2 Part 1",
+    "cp.main.cp4r2s2":"Chapter 4 Road 2 Part 2",
+    "cp.main.cp5":"Chapter 5",
+
+    "cp.cp0.welcome.title":"Welcome",
+    "cp.cp0.welcome.main":"Welcome to Create Lost and Renaissance！have a fun with you",
+    "cp.cp0.schematic.main":"There have some schematics in this modpack",
+    "cp.cp0.schematic.title":"About Schematic",
+    "cp.cp0.thanks.title":"Special Thanks",
+    "cp.cp0.thanks.main":"Thanks for the 锦衣校卫's support'",
+    "cp.cp0.thanks.with1":"--with you",
+    "cp.cp0.special.main":"There's some geeshells in modpack.Can you find them out? ",
+    "cp.cp0.special.title":"About Eggshell",
+    "cp.cp0.writer.title":"About Writer",
+    "cp.cp0.writer.main":"Writer:",
+    "cp.cp0.writer.with1":"bilibili:森林防护;MC百科:枫桦灰桥",
+
+    "cp.cp1.ore.main":"Ores can be producted from this block",
+    "cp.cp1.stone.main":"Stones can be producted from this block",
+
+    "cp.cp5.end.main":"Congratulations, you've completed this modpack.",
+    "cp.cp5.end.with1":"If you like it, remember to recommend it!",
+    "cp.cp5.end.title":"Ending"
+}

@@ -1,0 +1,11 @@
+{
+    "type": "flowing_block",
+    "flowing": "#kubejs:bayberry_juice",
+    "blocks_nearby": [
+        "#minecraft:water"
+    ],
+    "result": {
+        "type": "block",
+        "block": "kubejs:argentite"
+    }
+}

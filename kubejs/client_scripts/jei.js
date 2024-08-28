@@ -1,0 +1,10 @@
+JEIEvents.hideItems(event => {
+    event.hide('mekanismgenerators:heat_generator')
+    event.hide('thermal:dynamo_magmatic')
+    event.hide('easy_villagers:auto_trader')
+    event.hide('create_dd:steel_ingot')
+    event.hide('kubejs:incomplete_heat_engine')
+    event.hide('kubejs:incomplete_hydraulic_engine')
+    event.hide('kubejs:incomplete_steam_engine')
+    event.hide('functionalstorage:collector_upgrade')
+})

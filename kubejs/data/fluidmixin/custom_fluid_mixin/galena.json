@@ -1,0 +1,11 @@
+{
+    "type": "flowing_block",
+    "flowing": "#kubejs:peach_oolong_tea",
+    "blocks_nearby": [
+        "#minecraft:water"
+    ],
+    "result": {
+        "type": "block",
+        "block": "kubejs:galena"
+    }
+}

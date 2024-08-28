@@ -1,0 +1,36 @@
+{
+    "cp.main.welcome":"欢迎",
+    "cp.main.road":"发展路线",
+    "cp.main.shop":"商店",
+    "cp.main.cp1":"第一章 物流时代",
+    "cp.main.cp1z":"第一章支线 气密时代",
+    "cp.main.cp2":"第二章 精密时代",
+    "cp.main.cp2z":"第二章支线 蒸汽时代",
+    "cp.main.cp3":"第三章 酷热时代",
+    "cp.main.cp3z":"第三章支线 液压时代",
+    "cp.main.cp4r1s1":"第四章路线一 智能时代",
+    "cp.main.cp4r1s2":"第四章路线一 集成时代",
+    "cp.main.cp4r2s1":"第四章路线二 热力时代",
+    "cp.main.cp4r2s2":"第四章路线二 深邃时代",
+    "cp.main.cp5":"第五章 振动时代",
+
+    "cp.cp0.welcome.title":"欢迎",
+    "cp.cp0.welcome.main":"欢迎来到Create Lost and Renaissance！祝你游玩愉快",
+    "cp.cp0.schematic.main":"整合包有部分结构的内置蓝图，欢迎使用！蓝图仅供参考。",
+    "cp.cp0.schematic.title":"蓝图",
+    "cp.cp0.thanks.title":"特别感谢",
+    "cp.cp0.thanks.main":"特别感谢锦衣校卫的支持",
+    "cp.cp0.thanks.with1":"--与你",
+    "cp.cp0.special.main":"整合包中藏有一些彩蛋，你能找到它吗",
+    "cp.cp0.special.title":"彩蛋",
+    "cp.cp0.writer.title":"关于作者",
+    "cp.cp0.writer.main":"作者:",
+    "cp.cp0.writer.with1":"bilibili:森林防护;MC百科：枫桦灰桥",
+
+    "cp.cp1.ore.main":"矿物可由此方块自动产出",
+    "cp.cp1.stone.main":"石头可由此方块自动产出",
+
+    "cp.cp5.end.main":"恭喜你，完结了本整合包。",
+    "cp.cp5.end.with1":"如果喜欢记得推荐哦!",
+    "cp.cp5.end.title":"结局"
+}
